@@ -19,5 +19,5 @@
 - title: "Teaching"
   href: "/teaching/"
   subcategories:
-    - subtitle: "系统生物学"
-      subhref: "http://github.com"
+    - subtitle: "Bioinformatics"
+      subhref: "/teaching/bioinformatics"
