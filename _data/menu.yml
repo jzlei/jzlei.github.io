@@ -1,0 +1,23 @@
+- title: "About"
+  href: "/about/"
+
+- title: "Blog"
+  href: "/blog/"
+
+- title: "CV"
+  href: "/cv/"
+
+- title: "For Students"
+  href: "/for-students/"
+  subcategories:
+    - subtitle: "Content"
+      subhref: "/for-students/content/"
+
+- title: "Research"
+  href: "/research/"
+
+- title: "Teaching"
+  href: "/teaching/"
+  subcategories:
+    - subtitle: "系统生物学"
+      subhref: "http://github.com"

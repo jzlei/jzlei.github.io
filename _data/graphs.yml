@@ -1,0 +1,7 @@
+- id: graphs
+  imagefolder: /graphs
+  images:
+  - file: arg-bra-mex-debt-1945-1990.pdf
+    title: ISI Usually Meant These Latin American Governments Took on Debt Well Beyond Their Ability to Service It
+    caption: "ISI amounts to massive subsidies or even outright ownership of enterprises, which is compounded by the fact these exports weren't competitive."
+    tags: Intro to IR

@@ -1,0 +1,16 @@
+_site
+.sass-cache
+/dross
+HIDEME
+/drafts
+/cache
+/docs/hidden
+
+# ignore temp files w/ trailing ~
+*~
+
+# ignore hidden files
+.*
+
+# don't ignore the .gitignore file
+!.gitignore
